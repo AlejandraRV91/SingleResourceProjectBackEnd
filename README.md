@@ -16,5 +16,8 @@ PG_PASSWORD=0
 
 
 - `npm i`
-- `npm run dbinit`
-- `npm run seed`
+- `npm run db:init`
+- `npm run db:seed`
+
+
+`/games` index info (all games)
