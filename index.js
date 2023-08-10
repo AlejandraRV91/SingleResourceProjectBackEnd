@@ -1,7 +1,7 @@
 /** @format */
 
 // DEPENDENCIES
-const app = require("./app.js");
+const app = require("./App.js");
 
 // CONFIGURATION
 require("dotenv").config();

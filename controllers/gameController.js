@@ -2,7 +2,7 @@
 
 const express = require("express");
 const router = express.Router();
-const { getAllGames } = require("../queries/game");
+const { getAllGames } = require("../queries/games");
 
 router.get("/", async (req, res) => {
 	try {
