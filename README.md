@@ -54,6 +54,13 @@ This will start the server on the specified port and connect to the PostgreSQL d
 Below is a list of the routes in the application:
 
 -   `GET /games`: return all the storaged games.
+-   `POST /games`: Creates a new game and stores it in the database.
+
+-   `GET /games/:id`: Returns details of a specific game based on its ID.
+
+-   `PUT /games/:id`: Updates details of a specific game based on its ID.
+
+-   `DELETE /games/:id`: Deletes a specific game based on its ID.
 
 ## Author
 
