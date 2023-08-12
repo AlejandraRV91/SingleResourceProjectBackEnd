@@ -20,7 +20,7 @@ To configure the project, you need to create a file named `.env` at the root of 
 PORT= The port where your application will run (for example, 3000)
 PG_HOST= The host where your PostgreSQL database is running (e.g., localhost)
 PG_PORT= The port on which your PostgreSQL database is listening (default is 5432)
-PG_DATABASE= The name of your PostgreSQL database (e.g., singleresourcedb)
+PG_DATABASE= singleresourcedb
 PG_USER= The username for connecting to your PostgreSQL database (e.g., postgres)
 PG_PASSWORD= The password for the specified database user (leave empty if not applicable)
 ```
