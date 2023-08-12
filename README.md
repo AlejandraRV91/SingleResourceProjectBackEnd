@@ -53,12 +53,12 @@ This will start the server on the specified port and connect to the PostgreSQL d
 
 Below is a list of the routes in the application:
 
-For now, there is only one route, which is `/games`.
+-   `GET /games`: return all the storaged games.
 
 ## Author
 
-Blanca Altamirano
-Alejandra Ramirez
+-   Blanca Altamirano
+-   Alejandra Ramirez
 
 ## Contributors
 
